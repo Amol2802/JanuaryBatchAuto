@@ -25,6 +25,7 @@ public class LoginPage {
 	public void enterUserName(String username) {
 
 	driver.findElement(uname).sendKeys(username);
+	System.out.println("added this is git commite code ***********");
 	
 	}
 	
