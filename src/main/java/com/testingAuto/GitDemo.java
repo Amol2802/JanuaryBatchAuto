@@ -6,7 +6,7 @@ public class GitDemo {
 
    System.out.println("this is git commite code");
    
-   
+    System.out.println("added this is line by automation tester c person");
    
    System.out.println("added this is git commite code");
    
